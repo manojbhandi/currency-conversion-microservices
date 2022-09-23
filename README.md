@@ -1,6 +1,6 @@
 # Springboot Microservices Project
 # Service Registry :- Eureka Naming Server
-![image](https://user-images.githubusercontent.com/97438009/191920480-f138e3d9-6fc0-4e2b-9880-de5f64e2125d.png)
+![image](https://user-images.githubusercontent.com/97438009/191925044-3ca71022-1344-4c61-b95d-40bae3c756a6.png)
 
 # Currency-Conversion-microservice
 *USD to INR
