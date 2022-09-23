@@ -3,9 +3,10 @@
 ![image](https://user-images.githubusercontent.com/97438009/191920480-f138e3d9-6fc0-4e2b-9880-de5f64e2125d.png)
 
 # Currency-Conversion-microservice
-
+*USD to INR
 ![image](https://user-images.githubusercontent.com/97438009/191922263-e66ccc5d-d08a-435a-91fb-dafd1d5ee5d4.png)
-![image](https://user-images.githubusercontent.com/97438009/191922728-c2078c66-7d85-4173-9121-d1ff4820c754.png)
+![image](https://user-images.githubusercontent.com/97438009/191924728-e756a472-6063-4a3e-b5c8-c4f821c9b86e.png)
+*AUD to INR
 ![image](https://user-images.githubusercontent.com/97438009/191924160-4a1ad8cc-bb05-41ac-bee2-7070e0fbc2cb.png)
 
 # Currency-Exchange-microservice
